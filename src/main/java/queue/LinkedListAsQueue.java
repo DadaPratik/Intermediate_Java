@@ -16,6 +16,7 @@ public class LinkedListAsQueue {
         System.out.println("original linkedList: " + patient);
 
         patient.poll();
+
         System.out.println("after poll: " + patient);
 
         patient.offer("4th patient");
