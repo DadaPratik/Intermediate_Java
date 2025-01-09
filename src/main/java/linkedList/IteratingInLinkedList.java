@@ -12,6 +12,7 @@ public class IteratingInLinkedList {
 
         for(String movie : movies) {
             System.out.println(movie);
+
         }
     }
 }
