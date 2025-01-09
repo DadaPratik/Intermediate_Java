@@ -10,6 +10,7 @@ public class ChangeElementOfLinkedList {
         movies.add("Forest Gump");
         movies.add("The Hangover");
         movies.add("Titanice");
+
         System.out.println("Original list " + movies);
 
         movies.set(1,"Spiderman");
