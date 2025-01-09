@@ -10,6 +10,7 @@ public class LinkedListAsQueue {
 
         LinkedList<String> patient = new LinkedList<String>();
         patient.add("1st patient");
+
         patient.add("2nd patient");
         patient.add("3rd patient");
 
